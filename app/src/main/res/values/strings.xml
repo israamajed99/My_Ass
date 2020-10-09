@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My_First_Ass</string>
+    <string name="welcome_in_our_movies">welcome in our movies</string>
+    <string name="Done">submit</string>
+    <string name="choos_type_of_movies">choos type of movies</string>
+    <string name="done">Done</string>
+    <string name="choos_year_of_movies">choos year of movies</string>
+    <string-array name="movies">
+        <item> Comidy</item>
+        <item> hroe</item>
+        <item> romantic</item>
+        <item> sintific</item>
+    </string-array>
+    <string-array name="year">
+        <item> 2011</item>
+        <item> 2001</item>
+        <item> 2009</item>
+        <item> 2000</item>
+    </string-array>
+</resources>
